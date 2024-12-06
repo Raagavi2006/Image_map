@@ -337,5 +337,8 @@ QueensLand
 
 Royal
 ![alt text](<raagavi/WEB 4-5.png>)
+
+Food Court
+![alt text](<WEB 4-6.png>)
 # RESULT
 The program for implementing image maps using HTML is executed successfully.
